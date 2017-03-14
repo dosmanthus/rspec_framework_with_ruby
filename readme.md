@@ -7,7 +7,8 @@
 - [ ] 3. 起步和概念
 - [ ] 4. 瞭解 Expectations
   - [Equivalence Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_01_equivalence_matchers)
-  - Truthiness Matchers
+  - [Truthiness Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_02_truthiness_matchers)
+  - Numeric Comparison Matchers
 - [ ] 5. 高效測試
 - [ ] 6. Doubles 測試
 - [ ] 7. 挑戰
