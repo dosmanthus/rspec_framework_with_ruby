@@ -5,7 +5,7 @@
 - [ ] 1. Rspec介紹
 - [ ] 2. 安裝 Ruby 與 Rspec
 - [ ] 3. 起步和概念
-- [ ] 4. 瞭解 Expectations
+- [x] 4. 瞭解 Expectations
   - [Equivalence Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_01_equivalence_matchers)
   - [Truthiness Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_02_truthiness_matchers)
   - [Numeric Comparison Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_03_numeric_comparison_matchers)
@@ -13,6 +13,7 @@
   - [Other Useful Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_05_other_useful_matchers)
   - [Predicate Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_06_predicate_matchers)
   - [Observation Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_07_observation_matchers)
+  - [Complex Exceptations](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_08_complex_exceptations)
 - [ ] 5. 高效測試
 - [ ] 6. Doubles 測試
 - [ ] 7. 挑戰
