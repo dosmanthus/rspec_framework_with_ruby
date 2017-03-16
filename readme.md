@@ -12,6 +12,7 @@
   - [Collection Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_04_collection_matchers)
   - [Other Useful Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_05_other_useful_matchers)
   - [Predicate Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_06_predicate_matchers)
+  - [Observation Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_07_observation_matchers)
 - [ ] 5. 高效測試
 - [ ] 6. Doubles 測試
 - [ ] 7. 挑戰
