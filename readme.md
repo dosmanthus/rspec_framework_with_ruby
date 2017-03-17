@@ -15,6 +15,8 @@
   - [Observation Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_07_observation_matchers)
   - [Complex Exceptations](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_08_complex_exceptations)
 - [ ] 5. 高效測試
+  - [Helper Methods](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_/05_01_helper_methods)
+  - [Hooks](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_/05_02_hooks)
 - [ ] 6. Doubles 測試
 - [ ] 7. 挑戰
 - [ ] 8. Rspec 與 Rails
