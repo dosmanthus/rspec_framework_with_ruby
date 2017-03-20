@@ -17,6 +17,7 @@
 - [ ] 5. 高效測試
   - [Helper Methods](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_01_helper_methods)
   - [Hooks](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_02_hooks)
+  - [Using the let method](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_03_using_the_let_method)
 - [ ] 6. Doubles 測試
 - [ ] 7. 挑戰
 - [ ] 8. Rspec 與 Rails
