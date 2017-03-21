@@ -14,11 +14,13 @@
   - [Predicate Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_06_predicate_matchers)
   - [Observation Matchers](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_07_observation_matchers)
   - [Complex Exceptations](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/04_Working_with_Expectations/04_08_complex_exceptations)
-- [ ] 5. 高效測試
+- [x] 5. 高效測試
   - [Helper Methods](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_01_helper_methods)
   - [Hooks](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_02_hooks)
   - [Using the let method](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_03_using_the_let_method)
   - [Setting a Subject](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_04_setting_a_subject)
+  - [Implicitly defined subjects](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_05_implicitly_defined_subjects)
+  - [Shared examples](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_06_shared_examples)
 - [ ] 6. Doubles 測試
 - [ ] 7. 挑戰
 - [ ] 8. Rspec 與 Rails
