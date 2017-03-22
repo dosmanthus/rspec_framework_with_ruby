@@ -22,6 +22,7 @@
   - [Implicitly defined subjects](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_05_implicitly_defined_subjects)
   - [Shared examples](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_06_shared_examples)
 - [ ] 6. Doubles 測試
+  - [What are test doubles?](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_01_what_are_test_doubles)
 - [ ] 7. 挑戰
 - [ ] 8. Rspec 與 Rails
 - [ ] 9. TDD
