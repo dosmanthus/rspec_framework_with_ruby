@@ -24,6 +24,8 @@
 - [ ] 6. Doubles 測試
   - [What are test doubles?](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_01_what_are_test_doubles)
   - [Using mocks and stubs](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_02_using_mocks_and_stubs)
+  - [Partial test doubles](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_03_partial_test_doubles)
+  - [Message expectations](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_04_message_expectations)
 - [ ] 7. 挑戰
 - [ ] 8. Rspec 與 Rails
 - [ ] 9. TDD
