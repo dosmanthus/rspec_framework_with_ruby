@@ -21,13 +21,14 @@
   - [Setting a Subject](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_04_setting_a_subject)
   - [Implicitly defined subjects](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_05_implicitly_defined_subjects)
   - [Shared examples](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/05_Testing_Efficiently/05_06_shared_examples)
-- [ ] 6. Doubles 測試
+- [x] 6. Doubles 測試
   - [What are test doubles?](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_01_what_are_test_doubles)
   - [Using mocks and stubs](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_02_using_mocks_and_stubs)
   - [Partial test doubles](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_03_partial_test_doubles)
   - [Message expectations](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_04_message_expectations)
   - [Message argument constraints](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_05_message_argument_constraints)
   - [Message count constraints](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_06_message_count_constraints)
+  - [Spies](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_07_spies)
 - [ ] 7. 挑戰
 - [ ] 8. Rspec 與 Rails
 - [ ] 9. TDD
