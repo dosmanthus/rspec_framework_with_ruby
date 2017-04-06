@@ -33,5 +33,6 @@
 - [x] 7. [挑戰](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/07_Challenges)
 - [ ] 8. Rspec 與 Rails
   - [Installing](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_01_installing)
+  - [Generators](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_02_generators)
 - [ ] 9. TDD
 - [ ] 10. 測試工具
