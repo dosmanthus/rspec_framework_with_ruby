@@ -30,7 +30,8 @@
   - [Message argument constraints](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_05_message_argument_constraints)
   - [Message count constraints](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_06_message_count_constraints)
   - [Spies](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/06_Test_Doubles/06_07_spies)
-- [ ] 7. 挑戰
+- [x] 7. [挑戰](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/07_Challenges)
 - [ ] 8. Rspec 與 Rails
+  - [Installing](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_01_installing)
 - [ ] 9. TDD
 - [ ] 10. 測試工具
