@@ -34,5 +34,7 @@
 - [ ] 8. Rspec 與 Rails
   - [Installing](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_01_installing)
   - [Generators](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_02_generators)
+  - [Test database](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_03_test_database)
+  - [Transactional examples](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_04_transactional_examples)
 - [ ] 9. TDD
 - [ ] 10. 測試工具
