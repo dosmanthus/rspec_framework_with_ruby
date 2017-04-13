@@ -1,6 +1,6 @@
 # [RSpec Testing Framework with Ruby] 學習筆記
 
-透過 Lynda.com 的 ["RSpec Testing Framework with Ruby"](https://www.lynda.com/Ruby-tutorials/RSpec-Testing-Framework-Ruby/183884-2.html) 課程練習用 Rspec 寫 ruby 測試。
+透過 Lynda.com 的 ["RSpec Testing Framework with Ruby"](https://www.lynda.com/Ruby-tutorials/RSpec-Testing-Framework-Ruby/183884-2.html) 課程，練習用 Rspec 寫 ruby 測試。
 
 - [ ] 1. Rspec介紹
   - [What is RSpec](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/01_Introducing_RSpec/01_01_what_is_rspec)
@@ -39,5 +39,6 @@
   - [Model specs](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_05_model_specs)
   - [Helper specs](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_06_helper_specs)
   - [Controller specs: Requests](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_07_controller_specs_requests)
+  - [Controller specs: Responses](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_08_controller_specs_responses)
 - [ ] 9. TDD
 - [ ] 10. 測試工具
