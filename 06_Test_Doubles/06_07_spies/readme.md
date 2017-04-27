@@ -3,7 +3,7 @@
 ```
 it 'expects a call after it is received' do
   siri = spy("Siri")
-  allow(double).to receive(:hey!).and_return('How can I help you?')
+  allow(siri).to receive(:hey!).and_return('How can I help you?')
   siri.hey!
   expect(siri).to have_received(:hey!)
 end
@@ -12,7 +12,7 @@ end
 ```
 it 'expects a call after it is received' do
   siri = spy("Siri")
-  allow(double).to receive(:hey!).and_return('How can I help you?')
+  allow(siri).to receive(:hey!).and_return('How can I help you?')
   siri.hey!
   siri.hey!
   expect(siri).to have_received(:hey!).twice
