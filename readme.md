@@ -41,7 +41,8 @@
   - [Controller specs: Requests](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_07_controller_specs_requests)
   - [Controller specs: Responses](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_08_controller_specs_responses)
   - [View specs](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/08_RSpec_with_Ruby_on_Rails/08_09_view_specs)
-- [ ] 9. TDD
+- [x] 9. TDD
   - [What is TDD?](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/09_Test_Driven_Development/09_01_what_is_tdd)
   - [Benefits and disadvantages](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/09_Test_Driven_Development/09_02_benefits_and_disadvantages)
 - [ ] 10. 測試工具
+  - [Fixtures and factories](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/10_Testing_Tools/10_01_fixtures_and_factories)
