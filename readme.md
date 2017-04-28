@@ -44,7 +44,7 @@
 - [x] 9. TDD
   - [What is TDD?](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/09_Test_Driven_Development/09_01_what_is_tdd)
   - [Benefits and disadvantages](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/09_Test_Driven_Development/09_02_benefits_and_disadvantages)
-- [ ] 10. 測試工具
+- [x] 10. 測試工具
   - [Fixtures and factories](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/10_Testing_Tools/10_01_fixtures_and_factories)
   - [Acceptance testing](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/10_Testing_Tools/10_02_acceptance_testing)
   - [Automatic testing](https://github.com/dosmanthus/rspec_framework_with_ruby/tree/master/10_Testing_Tools/10_03_automatic_testing)
